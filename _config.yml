@@ -54,19 +54,19 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "tong-woo@hotmail.com"
+  github: tong-woo
+  linkedin: tong-woo
+  instagram: thomaswoo98
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook:
-  github: tong-woo
 #  twitter:
 #  patreon:
 #  youtube:
 #  medium: yourname
 #  reddit: yourname
-  linkedin: tong-woo
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: thomaswoo98
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -138,9 +138,9 @@ text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#cc80ff"
 footer-col: "#8533ff"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
+footer-hover-col: "#d1b3ff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
